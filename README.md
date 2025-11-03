@@ -56,6 +56,12 @@ Background LED blinking continues smoothly.
 Serial monitor shows timely and orderly task executions.
 
 Proven real-time multitasking working on Arduino Uno with minimal resources.
+
+
+
+
+<img width="688" height="305" alt="Screenshot from 2025-11-03 10-07-20" src="https://github.com/user-attachments/assets/854f2afe-0909-4b84-ac6a-39f1c855fcbc" />
+
 ## Conclusion
 
 This project shows how a custom small preemptive RTOS can run on a common Arduino board to handle multiple time-sensitive tasks effectively. It teaches how priority and timer-based scheduling work to keep tasks responsive and efficient.
