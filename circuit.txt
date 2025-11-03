@@ -1,0 +1,21 @@
+DHT11 Sensor:
+  VCC  → 5V (Arduino)
+  GND  → GND (Arduino)
+  DATA → Pin 2 (Arduino)
+
+HC-SR04 Ultrasonic Sensor:
+  VCC  → 5V (Arduino)
+  GND  → GND (Arduino)
+  TRIG → Pin 3 (Arduino)
+  ECHO → Pin 4 (Arduino)
+
+LED 1 (Ultrasonic Task):
+  Anode (+) → Pin 9 (Arduino)
+  Cathode (-) → 220Ω resistor → GND
+
+LED 2 (Blink Task):
+  Anode (+) → Pin 10 (Arduino)
+  Cathode (-) → 220Ω resistor → GND
+
+Built-in LED (Pin 13) used for DHT11 task indicator
+
